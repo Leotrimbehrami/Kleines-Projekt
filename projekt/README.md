@@ -3,9 +3,8 @@
 **[Test this app yourself](github.io)**
 
 ---
+https://github.com/Leotrimbehrami/Kleines-Projekt/issues/1#issue-1514888385
 
-![/img/1.png](./image/project.png)
-![/img/2.png]
 
 
 
